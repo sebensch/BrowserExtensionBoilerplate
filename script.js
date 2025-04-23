@@ -3,6 +3,10 @@
  * to demonstrate responsive canvas
  */
 
+/**
+ * Also shout out to Steven Lambert for putting the HTML, CSS and JS together in his codepen under https://codepen.io/straker/pen/VazMaL
+ */
+
 c=document.getElementById('c').getContext('2d')
 c.fillStyle="#FFF"
 c.font="60px monospace"
